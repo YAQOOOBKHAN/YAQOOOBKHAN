@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YAQOOOBKHAN
 - 👀 I’m interested in developing websites and app
-- 🌱 I’m currently learning react js 
+- 🌱 I’m currently working as a .NetDeveloper 
 - 💞️ I’m looking to collaborate on different e commerce projects
 - 📫 How to reach me contact on yk80781@gmail.com
 
